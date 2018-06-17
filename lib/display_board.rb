@@ -2,6 +2,6 @@
 
 Puts"   |   |   "   
 Puts"-----------"
-Puts""
-Puts""
-Puts""
+Puts"   |   |   " 
+Puts"-----------"
+Puts"   |   |   " 
